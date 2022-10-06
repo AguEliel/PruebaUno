@@ -1,3 +1,7 @@
 bueno esto es la prueba 1 de mi acer nitro
-:)
-:)
+ahora estoy en la rama MAIN
+y no esta agregada la informacion en la rama macbook
+<si hago bien el merge en la rama mein deberia estar la informacion
+    actualizada de la macbook>
+    :)
+
