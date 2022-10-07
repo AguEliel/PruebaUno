@@ -1,3 +1,6 @@
 bueno esta es la prueba 1 de mi macbook air
 Aca se da la primer prueba de fusion
 esta es la rama RAMAPRUEBA 1
+
+OKEY! y esta modificacion la estoy haciendo desde VSC, si sale todo bien tendria que actualizarse tambien en github.com
+esperemos salga todo ok ::)
